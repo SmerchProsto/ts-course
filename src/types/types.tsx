@@ -10,3 +10,4 @@ export interface IUser {
     email: string;
     address: IAddress;
 }
+
